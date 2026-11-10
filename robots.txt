@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://milicacuciic.github.io/milicadizajn/sitemap.xml
+Sitemap: https://milicacuciic.github.io/milicawebdizajn/sitemap.xml
